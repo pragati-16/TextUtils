@@ -1,0 +1,10 @@
+ 
+   
+  body
+{
+    background: rgb(237,235,33);
+    background: radial-gradient(circle, rgba(237,235,33,0.5889706224286589) 0%, rgba(148,187,233,1) 100%);
+    /* font-family: "Lucida Handwriting", "Courier New", monospace;  */
+    font-style: normal;
+}
+  
